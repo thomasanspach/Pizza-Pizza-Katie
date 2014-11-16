@@ -3,6 +3,7 @@ Pizza-Pizza-Katie
 ## Top 2 Pizza flavors
  * @ tom2anspach github lab rat :rat:
  
+ *Katie R. :panda_face:
 
   * plain 'ol cheese
   * old skool pepperoni
